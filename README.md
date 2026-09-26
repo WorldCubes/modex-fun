@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/branding/modex-header.png" alt="Modex — adaptive coding agents" width="900">
+</p>
+
 # Modex
 
 [![CI](https://github.com/OpenCoven/modex/actions/workflows/ci.yml/badge.svg)](https://github.com/OpenCoven/modex/actions/workflows/ci.yml)
